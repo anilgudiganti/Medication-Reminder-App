@@ -16,9 +16,9 @@ You will get a reminder audio ring at the scheduled medication times.
 You can view the Upcoming Reminders aswell.
 
 **Technologies Used :**
-HTML  
-CSS 
-JavaScript 
+HTML, 
+CSS, 
+JavaScript, 
 React.js 
 
 **Installation :**
