@@ -19,7 +19,7 @@ You can view the Upcoming Reminders aswell.
 HTML, CSS, JavaScript, React.js
 
 **Installation :**
-git clone https://github.com/your-username/medication-reminder-website.git
+git clone https://github.com/anilgudiganti/Medication-Reminder-App.git
 cd medication-reminder-website
 npm install
 npm Start
