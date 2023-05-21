@@ -22,10 +22,10 @@ JavaScript,
 React.js 
 
 **Installation :**
-git clone https://github.com/anilgudiganti/Medication-Reminder-App.git
-cd medication-reminder-website
-npm install
-npm Start
+ -> git clone https://github.com/anilgudiganti/Medication-Reminder-App.git
+ -> cd medication-reminder-website
+ -> npm install
+ -> npm Start
 
 **Conclusion :**
 The Medication Reminder Website is a powerful tool for managing medication schedules and ensuring medication adherence. With its intuitive user interface, customizable reminders, and comprehensive dashboard, it simplifies the process of staying on top of medication routines.
