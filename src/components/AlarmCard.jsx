@@ -14,7 +14,7 @@ function AlarmCard({ alarmset, setAlarmset }) {
   return (
     <div>
       <div className="alarmListCard">
-        <h1 className="alarmCardHead">Upcoming Alarms</h1>
+        <h1 className="alarmCardHead">Upcoming Reminders</h1>
         {alarmset.map((date, index) => (
           <div className="dates" key={index}>
             {date.medicationName} {`- on ${date.date.getDate()}/${
