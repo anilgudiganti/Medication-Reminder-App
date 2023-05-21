@@ -1,0 +1,48 @@
+.alarmListCard{
+    background-color: #ffffff;
+    border-width: 1px;
+    border-radius: 15px;
+    border-color: black;
+    margin-top: 40px;
+    margin-left: 150px;
+    width: 100%;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+
+}
+.alarmCardHead{
+    color: black;
+    text-align: center;
+}
+.dates{
+    color: black;
+    text-align: center;
+    padding-top: 10px;
+    background-color: aliceblue;
+    margin-bottom: 8px;
+    border-radius: 5px;
+}
+.deleteBtn{
+    margin-left: 30px;
+    background-color: blue;
+    color: #ffffff;
+    border-style: solid;
+    border-width: 0px;
+    border: none;
+    border-radius: 4px;
+    padding: 3px;
+    width: 80px;
+    height: 30px;
+
+}
+.datepicker{
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 3px;
+    font-size: 20px;
+    margin: 20px;
+    width: 80%;
+    padding-left: 10px;
+}
