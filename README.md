@@ -31,6 +31,5 @@ By using this website, users can conveniently add and delete medications, set pe
 ![1](https://github.com/anilgudiganti/Medication-Reminder-App/assets/128602229/84490520-2f6e-4956-b1a1-d464b33c5105)
 ![2](https://github.com/anilgudiganti/Medication-Reminder-App/assets/128602229/3531c92e-d02f-4c99-88a6-833d957aba7a)
 ![3](https://github.com/anilgudiganti/Medication-Reminder-App/assets/128602229/62825969-58d7-4350-b86a-4caad0f90759)
-![4](https://github.com/anilgudiganti/Medication-Reminder-App/assets/128602229/8412b9e4-5ce8-4efe-af9f-6ac985d1f13e)
-![5](https://github.com/anilgudiganti/Medication-Reminder-App/assets/128602229/800fcc0f-0844-4682-8e4c-b863793786f7)
-![6](https://github.com/anilgudiganti/Medication-Reminder-App/assets/128602229/63e51cb9-d361-46fd-9b9c-85c12198dc2f)
+![4](https://github.com/anilgudiganti/Medication-Reminder-App/assets/128602229/800fcc0f-0844-4682-8e4c-b863793786f7)
+![5](https://github.com/anilgudiganti/Medication-Reminder-App/assets/128602229/63e51cb9-d361-46fd-9b9c-85c12198dc2f)
