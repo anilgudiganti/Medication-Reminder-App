@@ -91,18 +91,6 @@ function Home() {
     };
   }, []);
 
-  //   const handleSetAlarmButton = () => {
-  //     const current = new Date();
-  //     if (current - selectedDate > 0) {
-  //       console.log("Select a time in future");
-  //       return;
-  //     }
-  //     var a = clone(alarms);
-  //     a.push(selectedDate);
-  //     a.sort((a, b) => Date.parse(a) - Date.parse(b));
-  //     setAlarms(a);
-  //   };
-
   function handleSetAlarmButton() {
     const current = new Date();
     if (current - selectedDate > 0) {
