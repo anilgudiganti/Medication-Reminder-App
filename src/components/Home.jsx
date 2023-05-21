@@ -133,7 +133,7 @@ function Home() {
           />
           <div className="setAlarmButton">
             <button className="Alarm-Set-Btn" onClick={handleSetAlarmButton}>
-              Set Alarm
+              Set Reminder
             </button>
           </div>
         </div>
