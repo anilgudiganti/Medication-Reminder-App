@@ -16,7 +16,10 @@ You will get a reminder audio ring at the scheduled medication times.
 You can view the Upcoming Reminders aswell.
 
 **Technologies Used :**
-HTML, CSS, JavaScript, React.js
+HTML  
+CSS 
+JavaScript 
+React.js 
 
 **Installation :**
 git clone https://github.com/anilgudiganti/Medication-Reminder-App.git
